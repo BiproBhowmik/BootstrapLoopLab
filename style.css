@@ -1,0 +1,163 @@
+body
+{
+	background-position: center;
+	color: white;
+	background: url(images/bg.jpg) fixed;
+}
+p
+{
+	font-size: 20px;
+}
+
+.navBorder
+{
+	border-bottom: 3px solid #04699C;
+}
+.navClass
+{
+	width: 100%;
+	background-color: black;
+	opacity: 0.7;
+}
+.navbar
+{
+
+}
+.navbar-brand
+{
+	color: #BABABA;
+}
+.navbar-brand:hover
+{
+	color: #BABABA;
+}
+
+.nav-link
+{
+	color: rgba(255, 255, 255, 0.5);
+}
+.nav-link:hover
+{
+	color: #BABABA;color: #BABABA;
+}
+.navbar-toggler
+{
+	background-image: url(images/au.png);
+}
+
+/*nv next*/
+.nav_next_row
+{
+	padding: 50px 0px;
+}
+.tik_mark
+{
+	background: url(images/tik.png) no-repeat;
+	background-position: left top;
+	padding-left: 80px;
+	font-size: 20px;
+	margin: 20px 0px;
+	color: white;
+}
+.form_head
+{
+	margin-bottom: -30px;
+	color: white;
+}
+.list_
+{
+	margin-left: 30px;
+}
+.form_left
+{
+	border-radius: 5px;
+	padding: 15px 0px;
+}
+.form_left div input
+{
+	margin: 20px 0px;
+}
+.form_left div button
+{
+	border: 2px solid white;
+}
+
+.form-group
+{
+	padding: 10px 30px;
+}
+
+/*Explore*/
+
+.exploreBG
+{
+	background-color: #333333;
+	padding: 65px 0px;
+}
+.exploreBG .container p
+{
+	font-size: 20px;
+}
+.button_with_border
+{
+	background-color: #333333;
+	border: 2px white;
+	color: white;
+}
+
+.button_with_border:hover
+{
+	background-color: white;
+	border: 1px white solid;
+	color: black;
+}
+
+/*Learn And Contact*/
+
+.lac
+{
+	padding: 65px 0px;
+}
+.exRight h1
+{
+	font-size: 30px;
+}
+.exRight p
+{
+	font-size: 20px;
+}
+.exRight ul li
+{
+	background: url(images/tik.png) no-repeat;
+	background-position: left top;
+	padding-left: 50px;
+	margin: 30px 0px;
+	font-size: 20px;
+}
+.button_with_border2
+{
+	background-color: #007BFF;
+	border: 2px white;
+	color: white;
+}
+
+.button_with_border2:hover
+{
+	background-color: white;
+	border: 1px white solid;
+	color: black;
+}
+
+/*Share*/
+.shareBG
+{
+	padding: 65px 0px;
+
+}
+
+/*footer*/
+.footer
+{
+	padding-top: 60px;
+}
+
